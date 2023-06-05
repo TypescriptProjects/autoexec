@@ -1,0 +1,21 @@
+{
+  "name": "autoexec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "npx nodemon"
+  },
+  "author": "chengfei.heng",
+  "license": "ISC",
+  "dependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "crypto-js": "^4.1.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
+  }
+}
